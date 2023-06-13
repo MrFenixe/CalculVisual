@@ -10,6 +10,7 @@
 ## Скриншоты программы
 ![image](https://github.com/dhoker23/Calculator-WindowsForms/assets/44202889/37aa62f6-3e99-4bc9-8d6f-9a472d7bcd23)  
 ## Контакты
-- VK : 
-- Telegram: 
-- mail : 
+- VK : https://vk.com/aframeevandrey
+- Telegram: @mrfenixe
+- mail : aframeev2@mail.ru
+
