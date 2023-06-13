@@ -8,7 +8,7 @@
 3.Введите второе число,  
 4.Нажмите кнопку выполнения операции.  
 ## Скриншоты программы
-![image](https://github.com/dhoker23/Calculator-WindowsForms/assets/44202889/37aa62f6-3e99-4bc9-8d6f-9a472d7bcd23)  
+![image](https://user-images.githubusercontent.com/44202889/245385231-37aa62f6-3e99-4bc9-8d6f-9a472d7bcd23.png)  
 ## Контакты
 - VK : https://vk.com/aframeevandrey
 - Telegram: @mrfenixe
