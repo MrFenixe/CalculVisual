@@ -10,20 +10,21 @@
 ## Фрагменты кода
 
 ```this->buttonTimes->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 18, System::Drawing::FontStyle::Regular, System::Drawing::GraphicsUnit::Point,
-				static_cast<System::Byte>(204)));
-			this->buttonTimes->Location = System::Drawing::Point(109, 101);
-			this->buttonTimes->Name = L"buttonTimes";
-			this->buttonTimes->Size = System::Drawing::Size(74, 71);
-			this->buttonTimes->TabIndex = 3;
-			this->buttonTimes->Text = L"*";
-			this->buttonTimes->UseVisualStyleBackColor = true;
-			this->buttonTimes->Click += gcnew System::EventHandler(this, &MyForm::buttonTimes_Click);
+static_cast<System::Byte>(204)));
+this->buttonTimes->Location = System::Drawing::Point(109, 101);
+this->buttonTimes->Name = L"buttonTimes";
+this->buttonTimes->Size = System::Drawing::Size(74, 71);
+this->buttonTimes->TabIndex = 3;
+this->buttonTimes->Text = L"*";
+this->buttonTimes->UseVisualStyleBackColor = true;
+this->buttonTimes->Click += gcnew System::EventHandler(this, &MyForm::buttonTimes_Click);
 ```
 Процесс ввода "-"
-```private: System::Void buttonMinus_Click(System::Object^ sender, System::EventArgs^ e) {
-	number1 = Convert::ToInt32(textResult->Text);
-	operation = "-";
-	textResult->Clear();
+```
+private: System::Void buttonMinus_Click(System::Object^ sender, System::EventArgs^ e) {
+  number1 = Convert::ToInt32(textResult->Text);
+  operation = "-";
+  textResult->Clear();
 }
 ```
 Функция нажатия кнопки "-"
