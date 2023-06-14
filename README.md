@@ -19,8 +19,15 @@
 			this->buttonTimes->UseVisualStyleBackColor = true;
 			this->buttonTimes->Click += gcnew System::EventHandler(this, &MyForm::buttonTimes_Click);
 ```
-   
-   
+Процесс ввода "-"
+```private: System::Void buttonMinus_Click(System::Object^ sender, System::EventArgs^ e) {
+	number1 = Convert::ToInt32(textResult->Text);
+	operation = "-";
+	textResult->Clear();
+}
+```
+Функция нажатия кнопки "-"
+
 ## Скриншоты программы
 ![image](https://user-images.githubusercontent.com/44202889/245385231-37aa62f6-3e99-4bc9-8d6f-9a472d7bcd23.png)  
 ## Контакты
