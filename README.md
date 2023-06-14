@@ -8,8 +8,8 @@
 3.Введите второе число,  
 4.Нажмите кнопку выполнения операции.  
 ## Фрагменты кода
-			```
-   this->buttonTimes->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 18, System::Drawing::FontStyle::Regular, System::Drawing::GraphicsUnit::Point,
+
+```this->buttonTimes->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 18, System::Drawing::FontStyle::Regular, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(204)));
 			this->buttonTimes->Location = System::Drawing::Point(109, 101);
 			this->buttonTimes->Name = L"buttonTimes";
