@@ -18,7 +18,8 @@
 			this->buttonTimes->Text = L"*";
 			this->buttonTimes->UseVisualStyleBackColor = true;
 			this->buttonTimes->Click += gcnew System::EventHandler(this, &MyForm::buttonTimes_Click);
-   ```
+																```
+   
    
 ## Скриншоты программы
 ![image](https://user-images.githubusercontent.com/44202889/245385231-37aa62f6-3e99-4bc9-8d6f-9a472d7bcd23.png)  
